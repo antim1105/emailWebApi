@@ -1,0 +1,5 @@
+com\example\demo\Controllers\mainController.class
+com\example\demo\Dao\Email.class
+com\example\demo\EmailWebApiApplication.class
+com\example\demo\Services\emailService$1.class
+com\example\demo\Services\emailService.class
