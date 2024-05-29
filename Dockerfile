@@ -8,3 +8,4 @@ COPY . .
 EXPOSE  8080
 CMD ["java","-jar","emailWebAPI-0.0.1-SNAPSHOT.jar"]
 
+#ok
