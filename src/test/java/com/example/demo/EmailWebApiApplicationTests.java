@@ -9,5 +9,6 @@ class EmailWebApiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	// ok
 
 }
